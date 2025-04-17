@@ -1,7 +1,5 @@
 package com.datastruct;
 
-import com.datastruct.*;
-
 public class HuffmanCoding {
     public static void main(String[] args) {
         char[] charArray = { 'E', 'T', 'N', 'I', 'S'};
