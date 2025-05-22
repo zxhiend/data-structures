@@ -29,7 +29,7 @@
                   </execution>
               </executions>
               <configuration>
-                  <mainClass>GraphMain</mainClass>
+                  <mainClass>WeightedGraphMain</mainClass>
               </configuration>
           </plugin>
       </plugins>
